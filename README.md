@@ -1,0 +1,2 @@
+# Breast-cancer-Analysis-using-weka-data-mining
+breast cancer samples were established by using a sample-specific network analysis method and which also performed very well on an independent validation data set. This work will help us to better understand the mechanism underlying the occurrence of breast cancer from the sample-specific network perspective. by using ML algorithm on WEKA mining tool 
